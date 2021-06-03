@@ -1,0 +1,85 @@
+{
+  "nodes" : [
+    {
+      "node" : {
+        "Title" : "Using RePORT Web Tools Throughout the Grants Process",
+        "Audio File" : " How- RePORT-Helps-Applicants-and-Awardees.mp3",
+        "Date" : "Sunday, March 15, 2020",
+        "Length" : "12 min.",
+        "Category" : "Getting to Know NIH and the Grants Process"
+      }
+    },
+    {
+      "node" : {
+        "Title" : "Who Should I Contact at NIH? - Part 1 of 4: Roles of NIH Staff and How They Work Together",
+        "Audio File" : " Who_To_Contact_1_March_2013.mp3",
+        "Date" : "Thursday, March 28, 2013",
+        "Length" : "8 min.",
+        "Category" : "Getting to Know NIH and the Grants Process"
+      }
+    },
+    {
+      "node" : {
+        "Title" : "Notices of Special Interest (NOSIs)",
+        "Audio File" : " NOSI-Final.mp3",
+        "Date" : "Monday, January 20, 2020",
+        "Length" : "11 min.",
+        "Category" : "Preparing a Successful Grant Application"
+      }
+    },
+    {
+      "node" : {
+        "Title" : "NIH's biosketch requirements",
+        "Audio File" : " Biosketch_March_2015.mp3",
+        "Date" : "Tuesday, March 24, 2015",
+        "Length" : "6 min.",
+        "Category" : "Preparing a Successful Grant Application"
+      }
+    },
+    {
+      "node" : {
+        "Title" : " NIH’s Interest in Diversity and Diversity Supplement Programs",
+        "Audio File" : " Diversity-Statement-DefinitionandSupplements.mp3",
+        "Date" : "Tuesday, February 18, 2020",
+        "Length" : "11 min.",
+        "Category" : "Advice For New and Early Career Scientists"
+      }
+    },
+    {
+      "node" : {
+        "Title" : "Enhance Your Research Capabilities through an Independent Career Award",
+        "Audio File" : " Non-Mentored_K_Awards_July_2010.mp3",
+        "Date" : "Thursday, July 29, 2010",
+        "Length" : "15 min.",
+        "Category" : "Advice For New and Early Career Scientists"
+      }
+    },
+    {
+      "node" : {
+        "Title" : "NIH’s Loan Repayment Programs",
+        "Audio File" : " LRP_final.mp3",
+        "Date" : "Friday, September 16, 2016",
+        "Length" : "10 min.",
+        "Category" : "Submitting Your Application"
+      }
+    },
+    {
+      "node" : {
+        "Title" : "Managing Conflicts of Interest in Peer Review",
+        "Audio File" : " Podcast - COI in Peer Review - 2019-10-25.mp3",
+        "Date" : "Friday, November 29, 2019",
+        "Length" : "8 min.",
+        "Category" : "How NIH Grants Are Reviewed"
+      }
+    },
+    {
+      "node" : {
+        "Title" : "Certificates of Confidentiality",
+        "Audio File" : " Certificates-of-Confidentiality.mp3",
+        "Date" : "Monday, January 6, 2020",
+        "Length" : "12 min.",
+        "Category" : "Life As An NIH Grantee (Post-Award Activities and Requirements)"
+      }
+    }
+  ]
+}
